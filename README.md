@@ -9,6 +9,7 @@
 
 * [`any?`](#any?)
 
+</details>
 
 ---
  ## 📚 Array
